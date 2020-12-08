@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working on AWS certifications
-- 🌱 I’m currently learning moar AWS
+- 🌱 I’m looking for Python work in California
 
