@@ -7,3 +7,4 @@
 - 🔭 I’m currently working on AWS certifications
 - 🌱 I’m looking for Python work in California
 
+- Here's my [resume](ToddMcDaniel_113020.pdf).
