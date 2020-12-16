@@ -1,6 +1,6 @@
 ## My name is Todd McDaniel 👋
 
-### I'm looking for work in Python or Mac administration in central California
+### I'm looking for work in Python or Mac administration in northern California
 
 <!--
 **lazymutt/lazymutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
