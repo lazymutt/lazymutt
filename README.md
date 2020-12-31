@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on AWS certifications, learning Javascript and React
 
-- Here's my [resume](ToddMcDaniel_113020.pdf).
+- Here's my [resume](ToddMcDaniel_123120.pdf).
 <br>
 
 #### More info about me
