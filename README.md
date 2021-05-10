@@ -5,6 +5,7 @@
 -->
 
 - 🔭 I’m currently working on bettering my Python and learning some Swift.
+-  Absolutely *floored* to have the Mars 2020 Helicopter badge.
 
 - Here's my [resume](ToddMcDaniel_123120.pdf).
 - Here are my [gists](https://gist.github.com/lazymutt)
