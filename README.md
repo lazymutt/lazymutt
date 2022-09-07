@@ -12,6 +12,8 @@ Here's my [resume](ToddMcDaniel.pdf).
 
 Here are my [gists](https://gist.github.com/lazymutt).
 
+[GitHub Pages, eventually...](https://lazymutt.github.io/)
+
 #### Some recent projects I'm working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=toy-blockchain&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/toy-blockchain)
