@@ -3,7 +3,7 @@
 <!--
 **lazymutt/lazymutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![lazymutt's visitors](https://komarev.com/ghpvc/?username=lazymutt&color=blue&style=for-the-badge&label=visitors)
+![lazymutt's visitors](https://komarev.com/ghpvc/?username=lazymutt&color=blue&style=for-the-badge&label=visitors) ![lazymutt's followers](https://img.shields.io/github/followerslazymutt?&color=blue&style=for-the-badge&label=followers) ![lazymutt's stars](https://img.shields.io/github/stars/lazymutt?affiliations=OWNER%2CCOLLABORATOR&color=blue&style=for-the-badge) 
 
 🔭 I’m always working on improving my Python and learning Swift.
 
