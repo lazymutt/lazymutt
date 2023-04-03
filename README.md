@@ -3,7 +3,7 @@
 <!--
 **lazymutt/lazymutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![lazymutt's visitors](https://komarev.com/ghpvc/?username=lazymutt&color=555555&style=for-the-badge&label=visitors)
+![lazymutt's visitors](https://komarev.com/ghpvc/?username=lazymutt&color=blue&style=for-the-badge&label=visitors)
 
 🔭 I’m always working on improving my Python and learning Swift.
 
