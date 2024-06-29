@@ -21,7 +21,6 @@ Here are my [gists](https://gist.github.com/lazymutt).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=Jamf-Pro-API-Sampler&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/Jamf-Pro-API-Sampler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=reindeer-flotilla&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/reindeer-flotilla)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=pysparsemac&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/pysparsemac)
-
 <br>  
 
   
