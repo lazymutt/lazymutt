@@ -17,6 +17,7 @@ Here are my [gists](https://gist.github.com/lazymutt).
 
 #### Some recent projects I'm working on
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=parking-sensor&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/parking-sensor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=toy-blockchain&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/toy-blockchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=Jamf-Pro-API-Sampler&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/Jamf-Pro-API-Sampler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lazymutt&repo=reindeer-flotilla&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/reindeer-flotilla)
