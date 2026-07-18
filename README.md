@@ -26,6 +26,9 @@ Here are my [gists](https://gist.github.com/lazymutt).
 <br>  
 
   
+[![lazymutt's GitHub stats](https://github-stats-extended.vercel.app/api?username=lazymutt)](https://github.com/stats-organization/github-stats-extended)
 
+<!--
 [![Lazymutt's github stats](https://github-readme-stats.vercel.app/api?username=lazymutt&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazymutt&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+-->
