@@ -21,11 +21,10 @@ Here are my [gists](https://gist.github.com/lazymutt).
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lazymutt&repo=toy-blockchain&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/toy-blockchain)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lazymutt&repo=Jamf-Pro-API-Sampler&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/Jamf-Pro-API-Sampler)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lazymutt&repo=reindeer-flotilla&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/reindeer-flotilla)
-[![Readme Card]([https://github-readme-stats.vercel.app](https://github-stats-extended.vercel.app)/api/pin/?username=lazymutt&repo=pysparsemac&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/pysparsemac)
-[![Readme Card]([https://github-readme-stats.vercel.app](https://github-stats-extended.vercel.app)/api/pin/?username=lazymutt&repo=revoke_device_trust_okta&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/revoke_device_trust_okta)
-<br>  
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lazymutt&repo=reindeer-flotilla&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/pysparsemac)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=lazymutt&repo=reindeer-flotilla&show_icons=true&theme=gruvbox)](https://github.com/lazymutt/revoke_device_trust_okta)
+<br>
 
-  
 [![lazymutt's GitHub stats](https://github-stats-extended.vercel.app/api?username=lazymutt)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
